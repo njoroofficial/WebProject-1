@@ -1,1 +1,1 @@
-This is a portfolio project for out study group called Artlife
+This is a portfolio project for our study group called Artlife
